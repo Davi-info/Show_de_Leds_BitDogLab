@@ -38,7 +38,7 @@ Este projeto implementa um sistema de controle para uma matriz de LEDs WS2812B u
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https: //github.com/Davi-info/Show_de_Leds_BitDogLab.git
    cd seu-repositorio
 2. Compile o código utilizando o SDK do Raspberry Pi Pico.
 3. Envie o binário gerado para a Raspberry Pi Pico.
@@ -47,4 +47,3 @@ Este projeto implementa um sistema de controle para uma matriz de LEDs WS2812B u
 * 🎥 Vídeo explicativo: https://www.youtube.com/watch?v=chQdNiFmVm0
 * 📜 Código base utilizado: Gist do Jonathas Jivago - https://gist.github.com/JonathasJivago/d61c6b6e5f44bdbe02df3e6fdd79754b
 * 💡 BitDogLab (Placa utilizada nos testes): https://github.com/BitDogLab
-* 
